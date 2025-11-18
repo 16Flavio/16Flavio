@@ -25,4 +25,4 @@ Civil Engineering student with a focus on Computer Science and Management, speci
 
 ## 📫 Contact
 - Email: [drogoflavio16@gmail.com](mailto:drogoflavio16@gmail.com)
-- LinkedIn: [Drogo Flavio](https://www.linkedin.com/in/drogo-flavio)
+- LinkedIn: [Drogo Flavio](https://www.linkedin.com/in/drogo-flavio-6309aa252/)
