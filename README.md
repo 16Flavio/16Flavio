@@ -13,7 +13,7 @@ Civil Engineering student with a focus on Computer Science and Management, speci
 - **BAPC & NWERC** – Solved algorithmic problems under time constraints in team competitions, enhancing teamwork, problem-solving, and algorithmic skills.
 
 ### Personal / AI Projects
-
+- **Reinforcement Learning Pacman** - Simple DQN for Pacman Atari version.
 ---
 
 ## 💻 Skills
